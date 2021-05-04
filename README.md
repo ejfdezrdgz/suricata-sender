@@ -28,4 +28,4 @@ If you have other ways to invoke your Python, change the command syntax accordin
 * Could I have made it not require the "-z"? I guess, but I couldn't care enough. If you do care enough, edit the script, it's not that difficult. You can do a pull request too if you want.
 
 # Thanks to
-@cvandeplas for the original script
+[cvandeplas](https://github.com/cvandeplas) for the original script
