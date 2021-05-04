@@ -26,3 +26,6 @@ If you have other ways to invoke your Python, change the command syntax accordin
 * The script has been updated from Cristophe's such as it won't need you to input how many threads Suricata has configured (as it already does the stat compression) nor how many lines you want to get from the file (as it just gets the last full block). It also checks for Suricata's process status and sends a datapoint with the state.
 * The script could of course be more polished, but as it stands, it works for me so don't expect updates on this. Fork it, copy it or whatever you want.
 * Could I have made it not require the "-z"? I guess, but I couldn't care enough. If you do care enough, edit the script, it's not that difficult. You can do a pull request too if you want.
+
+# Thanks to
+@cvandeplas for the original script
